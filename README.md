@@ -2,6 +2,12 @@
 
 An interactive machine learning web application that predicts salaries based on years of experience using Linear Regression. Built with Streamlit for easy deployment and user interaction.
 
+## 🔗 Live Application
+
+**[→ Launch Salary Predictor App](https://shettynaviya-salary-predictor-app-8rq6rn.streamlit.app/)**
+
+> 💡 **Try it now!** Enter your years of experience and get instant salary predictions powered by machine learning.
+
 ## 🎯 Features
 
 - **Home Page** - Interactive/non-interactive data visualizations with filtering
